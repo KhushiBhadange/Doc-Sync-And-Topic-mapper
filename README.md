@@ -1,3 +1,3 @@
-# Document-Clustering-and-Topic-Modeling
+# Exploring Document Grouping and Theme Extraction
 
-In this project, we use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures.
+In this research, we employ unsupervised learning models to categorize unlabeled documents into several groups, show the outcomes, and locate the latent topics/structures.
